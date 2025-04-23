@@ -2,9 +2,7 @@
 🚢 Exploratory Data Analysis (EDA) on the Titanic Dataset
 Exploratory Data Analysis (EDA) is a fundamental step in the data science workflow. It involves summarizing and visualizing the key characteristics of a dataset to gain meaningful insights. For this project, I performed EDA on the Titanic dataset—a well-known dataset often used in data science learning environments.
 
-The dataset used was provided by the bootcamp platform @dibimbing.id . However, similar versions of this dataset are publicly available on platforms like Kaggle. It contains demographic and survival information of passengers aboard the RMS Titanic.
-
-You can access the dataset I used through my GitHub repository (link above), or feel free to explore and download a fresh copy via Kaggle.
+The dataset used was provided by the bootcamp platform [@dibimbing.id](https://dibimbing.id/). However, similar versions of this dataset are publicly available on platforms like Kaggle. It contains demographic and survival information of passengers aboard the RMS Titanic.
 
 ⚙️ Context & Purpose
 The maritime transport industry—especially large passenger vessels like the Titanic—has played a crucial role in human migration. This analysis aims to better understand survival patterns, passenger characteristics, and potential factors affecting one's likelihood of survival during maritime disasters.
@@ -51,6 +49,6 @@ Even limited datasets can yield valuable conclusions when analyzed correctly and
 💬 Let’s Connect!
 If you have suggestions, questions, or would like to discuss this analysis further, feel free to reach out:
 
-🔗 LinkedIn: Allexander Agung
+🔗 LinkedIn: [Allexander Agung](https://www.linkedin.com/in/allexander-agung-192807328/)
 
 #EDA #DataScience #Python #Pandas #Kaggle #GoogleColab #Analytics 
